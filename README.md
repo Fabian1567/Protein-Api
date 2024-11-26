@@ -17,7 +17,7 @@ git clone https://github.com/Fabian1567/Protein-Api.git
 2. Navigate to the cloned repository and install dependencies using poetry
 
 ```bash
-cd Protein-Api
+cd ./Protein-Api
 poetry install
 ```
 
